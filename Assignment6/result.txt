@@ -1,0 +1,19 @@
+phrase 1
+theyouthevent
+
+output 1
+YES, can split.
+they out he vent
+
+phrase 2
+theeaglehaslande
+
+output 2
+NO, cannot split.
+
+phrase 3
+lukelucklikeslakeslukeducklikeslakeslukelucklickslakesluckducklickslakes
+
+output 3
+YES, can split.
+luke luck likes lakes luke duck likes lakes luke luck licks lakes luck duck licks lakes
